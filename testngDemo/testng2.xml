@@ -4,7 +4,7 @@
 
     <test verbose="2" preserve-order="true" name="模块2">
     <classes>
-        <class name="com.lemon.testng.Demo5" />
+        <class name="com.lemon.okHttp.testng.Demo5" />
     </classes>
     </test>
 <!--    parameter注解-->

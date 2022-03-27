@@ -3,15 +3,15 @@
 <suite name="All Test Suite">
 <!--    <test verbose="2" preserve-order="true" name="模块1">-->
 <!--        <classes>-->
-<!--            <class name="com.lemon.testng.Demo" />-->
-<!--            <class name="com.lemon.testng.Demo2" />-->
+<!--            <class name="Demo" />-->
+<!--            <class name="Demo2" />-->
 <!--        </classes>-->
 <!--    </test>-->
 
     <test verbose="2" preserve-order="true" name="模块2">
     <classes>
-        <class name="com.lemon.testng.Demo3" />
-        <class name="com.lemon.testng.Demo4" />
+        <class name="com.lemon.okHttp.testng.Demo3" />
+        <class name="com.lemon.okHttp.testng.Demo4" />
     </classes>
 </test>
 
