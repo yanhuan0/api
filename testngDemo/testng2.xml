@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test verbose="2" preserve-order="true" name="模块2">
+    <classes>
+        <class name="com.lemon.testng.Demo5" />
+    </classes>
+    </test>
+<!--    parameter注解-->
+    <parameter name="firstname" value="尼古拉斯" />
+    <parameter name="lastname" value="赵四" />
+
+</suite>
